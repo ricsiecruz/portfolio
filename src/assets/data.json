@@ -1,0 +1,298 @@
+{
+    "menu": [
+        {
+            "link": "about",
+            "icon": "M4 22C4 17.5817 7.58172 14 12 14C16.4183 14 20 17.5817 20 22H18C18 18.6863 15.3137 16 12 16C8.68629 16 6 18.6863 6 22H4ZM12 13C8.685 13 6 10.315 6 7C6 3.685 8.685 1 12 1C15.315 1 18 3.685 18 7C18 10.315 15.315 13 12 13ZM12 11C14.21 11 16 9.21 16 7C16 4.79 14.21 3 12 3C9.79 3 8 4.79 8 7C8 9.21 9.79 11 12 11Z",
+            "label": "About"
+        },
+        {
+            "link": "resume",
+            "icon": "M21 8V20.9932C21 21.5501 20.5552 22 20.0066 22H3.9934C3.44495 22 3 21.556 3 21.0082V2.9918C3 2.45531 3.4487 2 4.00221 2H14.9968L21 8ZM19 9H14V4H5V20H19V9ZM8 7H11V9H8V7ZM8 11H16V13H8V11ZM8 15H16V17H8V15Z",
+            "label": "Resume"
+        }
+    ],
+    "skills": [
+        {
+            "skill": "Flutter"
+        },
+        {
+            "skill": "AWS"
+        },
+        {
+            "skill": "Angular"
+        },
+        {
+            "skill": "API Integration"
+        },
+        {
+            "skill": "Figma"
+        },
+        {
+            "skill": "Xcode"
+        },
+        {
+            "skill": "SSL"
+        },
+        {
+            "skill": "Postman"
+        },
+        {
+            "skill": "Linux"
+        },
+        {
+            "skill": "SCSS"
+        },
+        {
+            "skill": "OOP"
+        },
+        {
+            "skill": "Nodejs"
+        },
+        {
+            "skill": "Express"
+        },
+        {
+            "skill": "MongoDB"
+        },
+        {
+            "skill": "React"
+        },
+        {
+            "skill": "Typescript"
+        }
+    ],
+    "contact": [
+        {
+            "class": "left_contact_item_svg_phone",
+            "icon": "M7 4V20H17V4H7ZM6 2H18C18.5523 2 19 2.44772 19 3V21C19 21.5523 18.5523 22 18 22H6C5.44772 22 5 21.5523 5 21V3C5 2.44772 5.44772 2 6 2ZM12 17C12.5523 17 13 17.4477 13 18C13 18.5523 12.5523 19 12 19C11.4477 19 11 18.5523 11 18C11 17.4477 11.4477 17 12 17Z",
+            "label": "Phone",
+            "value": "+639 2729 13962"
+        },
+        {
+            "class": "left_contact_item_svg_email",
+            "icon": "M2.24283 6.85435L11.4895 1.3086C11.8062 1.11865 12.2019 1.11872 12.5185 1.30878L21.7573 6.85433C21.9079 6.9447 22 7.10743 22 7.28303V20C22 20.5523 21.5523 21 21 21H3C2.44772 21 2 20.5523 2 20V7.28315C2 7.10748 2.09218 6.94471 2.24283 6.85435ZM4 8.13261V19H20V8.13214L12.0037 3.33237L4 8.13261ZM12.0597 13.6983L17.3556 9.23532L18.6444 10.7647L12.074 16.3017L5.36401 10.7717L6.63599 9.2283L12.0597 13.6983Z",
+            "label": "Email",
+            "value": "ricsie_aguila@yahoo.com"
+        },
+        {
+            "class": "left_contact_item_svg_location",
+            "icon": "M12 20.8995L16.9497 15.9497C19.6834 13.2161 19.6834 8.78392 16.9497 6.05025C14.2161 3.31658 9.78392 3.31658 7.05025 6.05025C4.31658 8.78392 4.31658 13.2161 7.05025 15.9497L12 20.8995ZM12 23.7279L5.63604 17.364C2.12132 13.8492 2.12132 8.15076 5.63604 4.63604C9.15076 1.12132 14.8492 1.12132 18.364 4.63604C21.8787 8.15076 21.8787 13.8492 18.364 17.364L12 23.7279ZM12 13C13.1046 13 14 12.1046 14 11C14 9.89543 13.1046 9 12 9C10.8954 9 10 9.89543 10 11C10 12.1046 10.8954 13 12 13ZM12 15C9.79086 15 8 13.2091 8 11C8 8.79086 9.79086 7 12 7C14.2091 7 16 8.79086 16 11C16 13.2091 14.2091 15 12 15Z",
+            "label": "Location",
+            "value": "Muntinlupa"
+        }
+    ],
+    "work": [
+        {
+            "company": "Computer Professionals, Inc.",
+            "designation": "Senior UI Developer",
+            "position": "Contractual",
+            "tenure": "February 15, 2023 - February 15, 2024 (1 year)",
+            "responsibilities": [
+                {
+                    "item": "Initiate the use of figma and create UI via figma using ndbx, present design to the team, and convert it to code"
+                },
+                {
+                    "item": "If there are no more tickets in the current sprint or is in standby mode, I proceed to the next sprint and analyze the tickets related to frontend and work on the ticket. We branch out and name the branch to the ticket so we can track it and won't affect the other tickets"
+                },
+                {
+                    "item": "User guide manual and UAT documentation"
+                },
+                {
+                    "item": "Maya payment, save card, pay via saved card, manage card, auto-pay, transaction history filter, user profile UI and api integration, bug fixing using Angular 15"
+                },
+                {
+                    "item": "Knowledge transfer sessions"
+                }
+            ],
+            "list": [
+                {
+                    "name": "jira"
+                },
+                {
+                    "name": "github"
+                },
+                {
+                    "name": "angular 15"
+                },
+                {
+                    "name": "postman"
+                },
+                {
+                    "name": "visual studio"
+                },
+                {
+                    "name": "figma"
+                },
+                {
+                    "name": "toad"
+                },
+                {
+                    "name": "scss"
+                },
+                {
+                    "name": "rxjs"
+                },
+                {
+                    "name": "typescript"
+                },
+                {
+                    "name": "OOP"
+                }
+            ]
+        },
+        {
+            "company": "Rising Tide Digital Inc",
+            "designation": "Front-end Web Developer",
+            "position": "Contractual",
+            "tenure": "April 2022 - October 2022 (6 months)",
+            "responsibilities": [
+                {
+                    "item": "Convert figma design to code"
+                },
+                {
+                    "item": "Unit testing, documentation, and bug fixing"
+                },
+                {
+                    "item": "Update website according to business needs"
+                }
+            ],
+            "list": [
+                {
+                    "name": "github"
+                },
+                {
+                    "name": "angular"
+                },
+                {
+                    "name": "visual studio"
+                },
+                {
+                    "name": "figma"
+                },
+                {
+                    "name": ".NET"
+                },
+                {
+                    "name": "rxjs"
+                },
+                {
+                    "name": "typescript"
+                },
+                {
+                    "name": "OOP"
+                }
+            ]
+        },
+        {
+            "company": "Accenture",
+            "designation": "Application Development Analyst",
+            "position": "Regular",
+            "tenure": "June 2021 - April 2022 (10 months)",
+            "responsibilities": [
+                {
+                    "item": "Convert figma design to code"
+                },
+                {
+                    "item": "Unit testing, knowledge transfer, shadowing, and documentation"
+                },
+                {
+                    "item": "Update website according to business needs"
+                },
+                {
+                    "item": "Bug fixing"
+                }
+            ],
+            "list": [
+                {
+                    "name": "github"
+                },
+                {
+                    "name": "angular"
+                },
+                {
+                    "name": "visual studio"
+                },
+                {
+                    "name": "figma"
+                },
+                {
+                    "name": ".NET"
+                },
+                {
+                    "name": "ag-grid"
+                },
+                {
+                    "name": "azure"
+                },
+                {
+                    "name": "jira"
+                },
+                {
+                    "name": "typescript"
+                },
+                {
+                    "name": "OOP"
+                }
+            ]
+        },
+        {
+            "company": "MnK.Soft Corporation",
+            "designation": "Front-end Web Developer",
+            "position": "Regular",
+            "tenure": "February 2018 - May 2021 (3 years and 3 months)",
+            "responsibilities": [
+                {
+                    "item": "Manage server and responsible on renewing ssl on websites"
+                },
+                {
+                    "item": "Meeting with colleagues and gather ideas on how to improve the system"
+                },
+                {
+                    "item": "Build the website if there's any updates like added a new page or functionality"
+                },
+                {
+                    "item": "Website design revision upon client request"
+                },
+                {
+                    "item": "Buy domain, add ssl, and get IP from AWS"
+                },
+                {
+                    "item": "Add website to google search console using DNS"
+                }
+            ]
+        },
+        {
+            "company": "N/A",
+            "designation": "Front-end Web Developer",
+            "position": "Freelance",
+            "tenure": "August 2017 - January 2018 (5 months)",
+            "responsibilities": [
+                {
+                    "item": "Co-owner of Lucksea Corporation invited me to work for him directly in preparation for needed documents for his new company (To be MnK.Soft Corporation)"
+                }
+            ]
+        },
+        {
+            "company": "Lucksea Corporation",
+            "designation": "Front-end Web Developer",
+            "position": "Regular",
+            "tenure": "May 2017 - August 2017 (3 months)",
+            "responsibilities": [
+                {
+                    "item": "Convert psd file to html/css"
+                }
+            ]
+        },
+        {
+            "company": "88DB Corporation",
+            "designation": "Wordpress Developer",
+            "position": "Intern",
+            "tenure": "November 2016 - February 2017 (3 months)",
+            "responsibilities": [
+                {
+                    "item": "Learned how to use Wordpress"
+                }
+            ]
+        }
+    ]
+}

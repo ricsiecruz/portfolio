@@ -1,0 +1,15 @@
+<div class="app">
+  <app-left></app-left>
+  <div class="app_body">
+    <router-outlet></router-outlet>
+  </div>
+  <div class="app_nav">
+    <div *ngFor="let item of menu" class="app_nav_item" routerLink="{{ item.link }}" routerLinkActive="active">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+        <path [attr.d]="item.icon" />
+      </svg>
+      <div>{{ item.label }}</div>      
+    </div>
+    <!-- <div routerLink="portfolio">portfolio</div> -->
+  </div>
+</div>

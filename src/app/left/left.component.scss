@@ -1,0 +1,71 @@
+.left {
+    max-width: 340px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 40px 30px;
+    &_name {
+        font-size: 26px;
+        text-align: center;
+    }
+    &_designation {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    &_contact {
+        border-radius: 16px;
+        background-color: #f3f6f6;
+        padding: 0 20px;
+        &_item {
+            display: flex;
+            padding: 20px 0;
+            border-bottom: 1px solid #e3e3e3;
+            svg {
+                width: 24px;
+            }
+            &_svg {
+                border-radius: 8px;
+                background-color: white;
+                min-width: 44px;
+                height: 44px;
+                align-items: center;
+                display: flex;
+                justify-content: center;
+                margin-right: 10px;
+                box-shadow: 0 4px 6px #00000014;
+                &_phone {
+                    fill: #e93b81;
+                }
+                &_email {
+                    fill: #6ab5b9;
+                }
+                &_location {
+                    fill: #fd7590;
+                }
+                &_linkedin {
+                    fill: #c17ceb;
+                }
+            }
+            &_label {
+                color: #44566c;
+                font-size: 12px;
+                margin-bottom: 3px;
+            }
+        }
+        &_item:last-of-type {
+            border-bottom: none;
+        }
+    }
+    &_resume, &_cv {
+        text-align: center;
+        background-color: #1b74e4;
+        color: #ffffff;
+        font-size: 18px;
+        padding: 14px 30px;
+        border-radius: 10px;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+    &_cv {
+        background-color: #9272d4;
+    }
+}

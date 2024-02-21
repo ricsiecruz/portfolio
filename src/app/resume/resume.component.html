@@ -1,0 +1,33 @@
+<div class="resume">
+    <div class="resume_header">
+        Resume
+    </div>
+    <div class="resume_skills">
+        Skills
+    </div>
+    <ul class="resume_ul">
+        <li *ngFor="let item of skillArr">
+            {{ item.skill }}
+        </li>
+    </ul>
+    <div class="resume_skills">
+        Education
+    </div>
+    <div class="resume_education">
+        <div class="resume_education_year">2013 - 2017</div>
+        <div class="resume_education_course">Bachelor of Science in Information Technology</div>
+        <div class="resume_education_university">Polytechnic University of the Philippines</div>
+        <div>Santa Mesa, Manila</div>
+    </div>
+    <div class="resume_work">
+        Work
+    </div>
+    <div *ngFor="let item of work" class="resume_work_list">
+        <div class="resume_education_course">{{ item.company }}</div>
+        {{ item.designation }} | {{ item.position }}
+        <div class="resume_education_year">{{ item.tenure }}</div>
+        <ul *ngFor="let list of item.responsibilities">
+            <li>{{ list.item }}</li>
+        </ul>
+    </div>
+</div>

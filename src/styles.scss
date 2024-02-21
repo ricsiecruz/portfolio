@@ -1,0 +1,8 @@
+body {
+    background-image: url('assets/page-bg-1.jpg');
+    background-position: center;
+    background-size: 100% auto; /* Cover width, auto-adjust height */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keep background fixed while scrolling */
+    font-family: 'Roboto Slab';
+}
